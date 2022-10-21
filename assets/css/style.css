@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+}
+
+#container{
+    margin-left: 230px;
+    height: 1300px;
+    width: 800px;
+    border: solid black 2px;
+    background-color: #e9fc7f;
+}
+
+#NavigatieBar{
+    
+    width: 800px;
+    border:solid black 1px;
+    padding-bottom: 20px;
+    padding-top: 0px;
+}
+ #inloggen{
+    text-align: right;  
+    
+ }
+
+ #country{
+    margin-top: 0px;
+ }
+ 
+ /* Navbar Einde */
+
+ #TabBar{
+    border: solid black 1px;
+    width: 800px;
+    height: 110px;
+ }
+
+ #Logo img{
+  height: 100px;
+ }
+ 
+ #Home{
+    float: right;
+
+ }
+ 
+ /* Einde TabBar */
+
+ #content{
+    border: solid black 1px;
+    width: 800px;
+    height: 900px;
+ }
+ 
+ #BalkLinks{
+    border: solid black 1px;
+    width: 300px;
+    height: 900px;
+ }
+
+
+#footer{
+    border: 1px solid black;
+    height: 191px;
+    width: 800px;
+}
+ #CopyrightBar{
+    border: 1px solid black;
+    height: 30px;
+    width: 800px;
+   
+
+ }
